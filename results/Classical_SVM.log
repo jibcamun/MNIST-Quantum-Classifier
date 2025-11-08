@@ -1,0 +1,25 @@
+Epoch 1/3 - Loss: 0.1773 - Acc: 0.9466
+Epoch 2/3 - Loss: 0.0520 - Acc: 0.9840
+Epoch 3/3 - Loss: 0.0380 - Acc: 0.9880
+
+Extracting training features using CNN feature extractor
+Extracting testing features using CNN feature extractor
+Shape of training features: (60000, 3136)
+Shape of training labels: (60000,)
+Shape of testing features: (10000, 3136)
+Shape of testing labels: (10000,)
+Training SVM...
+Accuracy (SVM on CNN features): 0.9924
+Individual Class AUC
+AUC for Class 0: 1.0000
+AUC for Class 1: 1.0000
+AUC for Class 2: 1.0000
+AUC for Class 3: 1.0000
+AUC for Class 4: 1.0000
+AUC for Class 5: 0.9999
+AUC for Class 6: 1.0000
+AUC for Class 7: 1.0000
+AUC for Class 8: 1.0000
+AUC for Class 9: 0.9999
+SVM Feature Extractor saved to mnist_svm_feature_extractor.pt
+SVM Classifier saved to mnist_svm_classifier.pt
