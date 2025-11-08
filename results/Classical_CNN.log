@@ -1,0 +1,55 @@
+Training:
+Epoch [1/10], Step [200/938], Loss: 0.0713
+Epoch [1/10], Step [400/938], Loss: 0.1642
+Epoch [1/10], Step [600/938], Loss: 0.1965
+Epoch [1/10], Step [800/938], Loss: 0.0405
+Epoch [2/10], Step [200/938], Loss: 0.0285
+Epoch [2/10], Step [400/938], Loss: 0.1282
+Epoch [2/10], Step [600/938], Loss: 0.0578
+Epoch [2/10], Step [800/938], Loss: 0.0378
+Epoch [3/10], Step [200/938], Loss: 0.0293
+Epoch [3/10], Step [400/938], Loss: 0.1411
+Epoch [3/10], Step [600/938], Loss: 0.0203
+Epoch [3/10], Step [800/938], Loss: 0.0274
+Epoch [4/10], Step [200/938], Loss: 0.0334
+Epoch [4/10], Step [400/938], Loss: 0.0183
+Epoch [4/10], Step [600/938], Loss: 0.0006
+Epoch [4/10], Step [800/938], Loss: 0.0164
+Epoch [5/10], Step [200/938], Loss: 0.0508
+Epoch [5/10], Step [400/938], Loss: 0.0009
+Epoch [5/10], Step [600/938], Loss: 0.0108
+Epoch [5/10], Step [800/938], Loss: 0.0188
+Epoch [6/10], Step [200/938], Loss: 0.0033
+Epoch [6/10], Step [400/938], Loss: 0.0095
+Epoch [6/10], Step [600/938], Loss: 0.0359
+Epoch [6/10], Step [800/938], Loss: 0.0450
+Epoch [7/10], Step [200/938], Loss: 0.0014
+Epoch [7/10], Step [400/938], Loss: 0.0131
+Epoch [7/10], Step [600/938], Loss: 0.0747
+Epoch [7/10], Step [800/938], Loss: 0.0043
+Epoch [8/10], Step [200/938], Loss: 0.0028
+Epoch [8/10], Step [400/938], Loss: 0.0197
+Epoch [8/10], Step [600/938], Loss: 0.0003
+Epoch [8/10], Step [800/938], Loss: 0.0026
+Epoch [9/10], Step [200/938], Loss: 0.0055
+Epoch [9/10], Step [400/938], Loss: 0.0021
+Epoch [9/10], Step [600/938], Loss: 0.0031
+Epoch [9/10], Step [800/938], Loss: 0.0002
+Epoch [10/10], Step [200/938], Loss: 0.0000
+Epoch [10/10], Step [400/938], Loss: 0.0001
+Epoch [10/10], Step [600/938], Loss: 0.0004
+Epoch [10/10], Step [800/938], Loss: 0.0025
+Evaluation:
+Accuracy (10000 test images): 99.18%
+
+Individual Class AUC
+AUC for Class 0: 1.0000
+AUC for Class 1: 0.9999
+AUC for Class 2: 1.0000
+AUC for Class 3: 1.0000
+AUC for Class 4: 1.0000
+AUC for Class 5: 0.9999
+AUC for Class 6: 0.9999
+AUC for Class 7: 1.0000
+AUC for Class 8: 0.9999
+AUC for Class 9: 0.9999
