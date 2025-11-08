@@ -53,3 +53,4 @@ AUC for Class 6: 0.9999
 AUC for Class 7: 1.0000
 AUC for Class 8: 0.9999
 AUC for Class 9: 0.9999
+Model saved to mnist_cnn_model.pt
