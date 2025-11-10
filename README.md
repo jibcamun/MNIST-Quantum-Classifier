@@ -8,4 +8,4 @@ TeamQCCA
 2. JIbran Noorshah
 3. Naren Jindal
 
-## *Summary*
+**Note : Kindly read the README.md file in the code folder**
